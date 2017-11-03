@@ -1,0 +1,6 @@
+.reveal section img.rounded {
+	border-radius: 10%;
+	border: 0;
+	box-shadow: none;
+}
+
